@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Truculenta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-image: url(../Resources/HTML\ BG\ STOLEN\ FROM\ SIS.png);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center;
+    text-align: center;
+}
+
+.glass {
+    background: rgba(166, 245, 183, 0.493);
+    border-radius: 2em;
+    min-height: 90vh;
+    width: 60%;
+    position: absolute;
+    left: 20vw;
+    nav-down: initial;
+    opacity: 0.9;
+    background: linear-gradient(to right bottom, rgba(140, 245, 196, 0.267), rgba(255, 75, 75)
+}

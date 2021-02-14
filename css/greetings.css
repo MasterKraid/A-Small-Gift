@@ -1,0 +1,26 @@
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-image: url(../Resources/sis2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-position: center;
+    text-align: center;
+}
+
+.glass1 {
+    background: rgba(252, 89, 89, 0.61);
+    border-radius: 2em;
+    min-height: 90vh;
+    width: 60%;
+    position: absolute;
+    left: 20vw;
+    nav-down: initial;
+    opacity: 0.9;
+    background: linear-gradient(to right bottom, rgba(153, 243, 201, 0.158), rgba(255, 75, 75)
+}
